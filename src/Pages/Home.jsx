@@ -64,7 +64,7 @@ const Home = () => {
                 type="text"
                 id="institution"
                 name="institution"
-                className="shadow-sm rounded-md py-2 px-3 text-gray-700 focus:outline-none focus:ring-indigo-500 focus:border-indigo-500 w-full pr-8"
+                className="shadow-sm rounded-md py-2 px-3 text-gray-700 w-full pr-8"
               />
               <Search className="absolute right-3 text-gray-500 cursor-pointer" />
             </div>
